@@ -1,14 +1,14 @@
-# pets = dict()
+pets = dict()
 
-# nameAnimal = input("name animal: ")
+nameAnimal = input("name animal: ")
 
-# ageAnimal = input("age animal: ")
+ageAnimal = input("age animal: ")
 
-# viewAnimal = input("view animal: ")
+viewAnimal = input("view animal: ")
 
-# pets = {value:{"age":ageAnimal,"view":viewAnimal}}
+pets = {value:{"age":ageAnimal,"view":viewAnimal}}
 
-# print(pets)
+print(pets)
 
 
 numer = dict()
