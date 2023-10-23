@@ -13,7 +13,7 @@
 
 numer = dict()
 
-for n in range(-5,10):
+for n in range(-5,11):
     numer[n] = n**n
     
 print(numer)
