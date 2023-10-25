@@ -9,10 +9,8 @@ class Transport(object):
       
 class Autobus(Transport):
     
- def __init__(self, name, max_speed, millage):
-  super().__init__(name, max_speed, millage)
-  
- def seating_capacity(self, capacity=50):
+
+  def seating_capacity(self, capacity=50):
      print(f"Name {self.name} capacity {capacity} ")
        
 
